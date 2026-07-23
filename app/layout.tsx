@@ -15,6 +15,11 @@ export const metadata: Metadata = {
   alternates: {
     types: { 'application/rss+xml': `${SITE_URL}/rss.xml` },
   },
+  // Подтверждение прав в Google Search Console и Яндекс.Вебмастере
+  verification: {
+    google: 'rM6mw21S6Nd6LbRQyDdOsDMm7Lsxa62aHJG2mx5DIkI',
+    yandex: 'e0db4e1af6c8e791',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
