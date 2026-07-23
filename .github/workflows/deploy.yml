@@ -3,6 +3,11 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Сигнал от автопубликации (news_publish.yml в talleks-ai): пуш контента
+  # токеном-ботом сам сборку не будит (защита GitHub от циклов), поэтому
+  # генератор шлёт repository_dispatch этого типа.
+  repository_dispatch:
+    types: [content-published]
   workflow_dispatch:
 
 permissions:
