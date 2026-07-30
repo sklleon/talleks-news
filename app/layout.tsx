@@ -15,10 +15,15 @@ export const metadata: Metadata = {
   alternates: {
     types: { 'application/rss+xml': `${SITE_URL}/rss.xml` },
   },
-  // Подтверждение прав в Google Search Console и Яндекс.Вебмастере
+  // Подтверждение прав в Google Search Console и Яндекс.Вебмастере.
+  // Кодов Яндекса два, потому что сайт подтверждён в двух разных аккаунтах
+  // Вебмастера: e0db4e1... — тот, где сайт был заведён при переезде 23.07.2026,
+  // d99f6566... — основной аккаунт компании, где живут talleks.ru и счётчик
+  // Метрики 103813205 (код у Яндекса выдаётся на аккаунт, а не на сайт).
+  // Оба нужны: убрать первый — отвалится старый кабинет.
   verification: {
     google: 'rM6mw21S6Nd6LbRQyDdOsDMm7Lsxa62aHJG2mx5DIkI',
-    yandex: 'e0db4e1af6c8e791',
+    yandex: ['e0db4e1af6c8e791', 'd99f6566ecd66fcd'],
   },
 };
 
