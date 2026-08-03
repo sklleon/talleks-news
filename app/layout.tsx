@@ -46,11 +46,47 @@ ym(${METRIKA_ID}, "init", {
 });
 `.trim();
 
+// Организация — единый блок на всех страницах. Нужен, чтобы поисковик связывал
+// новостной поддомен с юрлицом и его адресом: без адреса на страницах Яндекс.Вебмастер
+// не даёт подтвердить регион сайта (упёрлись в это 03.08.2026).
+// NAP обязан совпадать с эталоном в `catalogs/kartochka-kompanii.md` основного репозитория —
+// расхождения мешают поисковикам склеить карточки в один бизнес.
+const organizationLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': `${MAIN_SITE}/#organization`,
+  name: 'Таллекс Какао',
+  legalName: 'ООО «Таллекс Какао»',
+  url: MAIN_SITE,
+  telephone: '+7 (499) 390-08-38',
+  email: 'info@talleks.ru',
+  taxID: '9717001406',
+  vatID: '9717001406',
+  identifier: { '@type': 'PropertyValue', name: 'ОГРН', value: '1157746857377' },
+  description:
+    'Оптовый поставщик какао-порошка, какао-масла и какао тёртого ' +
+    'для пищевых и кондитерских производств России.',
+  address: {
+    '@type': 'PostalAddress',
+    postalCode: '129075',
+    addressCountry: 'RU',
+    addressRegion: 'Москва',
+    addressLocality: 'Москва',
+    streetAddress: 'ул. Аргуновская, д. 3, корп. 1, этаж 6, офис 26',
+  },
+  openingHours: 'Mo-Fr 09:00-18:00',
+  sameAs: [SITE_URL],
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ru">
       <head>
         <script dangerouslySetInnerHTML={{ __html: metrikaSnippet }} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationLd) }}
+        />
       </head>
       <body>
         <noscript>
@@ -84,9 +120,23 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               Таллекс Какао — оптовый поставщик какао-продуктов по всей России.
               Какао-порошок, какао-масло, какао тёртое для пищевых и кондитерских производств.
             </p>
+
+            {/* Адрес и реквизиты видимым текстом: по нему Яндекс подтверждает регион сайта. */}
+            <address className="footer-nap">
+              <strong>ООО «Таллекс Какао»</strong>
+              <br />
+              ИНН 9717001406 · ОГРН 1157746857377
+              <br />
+              Офис: 129075, г. Москва, ул. Аргуновская, д. 3, корп. 1, этаж 6, офис 26
+              <br />
+              Склад отгрузки: 142006, Московская обл., г. Домодедово, ул. Рябиновая, стр. 14, к. 1
+              <br />
+              Режим работы: Пн–Пт, 09:00–18:00
+            </address>
+
             <p>
               <a href={MAIN_SITE}>talleks.ru</a> · <a href="tel:+74993900838">+7 (499) 390-08-38</a> ·{' '}
-              <a href="/rss.xml">RSS</a>
+              <a href="mailto:info@talleks.ru">info@talleks.ru</a> · <a href="/rss.xml">RSS</a>
             </p>
           </div>
         </footer>

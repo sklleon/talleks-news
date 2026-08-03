@@ -90,6 +90,13 @@ a {
   color: var(--ink);
 }
 
+.footer-nap {
+  font-style: normal;
+  line-height: 1.6;
+  margin: 16px 0;
+  font-size: 14px;
+}
+
 /* ── лента ──────────────────────────────────────────────────── */
 
 .page-title {
