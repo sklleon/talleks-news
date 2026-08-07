@@ -7,7 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "postbuild": "node tools/generate-rss.mjs"
+    "postbuild": "node tools/generate-rss.mjs && node tools/generate-favicon.mjs"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
