@@ -23,10 +23,13 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
   if (!post) return {};
 
   const url = `${SITE_URL}/${post.slug}/`;
+  // Материал-копия указывает каноном страницу основного сайта: два домена
+  // с одним текстом иначе конкурируют друг с другом в выдаче
+  const canonical = post.canonicalUrl || url;
   return {
     title: post.title,
     description: post.description,
-    alternates: { canonical: url },
+    alternates: { canonical },
     openGraph: {
       type: 'article',
       title: post.title,

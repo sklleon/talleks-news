@@ -6,6 +6,7 @@ rubric: ""
 description: "Жирность, pH, степень помола — как выбрать какао-порошок для кондитерского производства. Чеклист из 5 вопросов технолога перед закупкой."
 cover: ""
 source_url: "https://talleks.ru/news/kak-vybrat-kakao-poroshok"
+canonical_url: "https://talleks.ru/news/kak-vybrat-kakao-poroshok"
 ---
 ## Жирность: 10–12%, 20–22% или 22–24%
 

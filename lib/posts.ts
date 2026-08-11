@@ -19,6 +19,10 @@ export type Post = {
   description: string;
   cover: string;
   sourceUrl: string;
+  /** Канон на другом домене. Заполняется, когда первоисточник текста —
+   *  основной сайт talleks.ru, а здесь лежит копия: тогда canonical уводит
+   *  на talleks.ru, и материал не попадает в нашу карту сайта. */
+  canonicalUrl: string;
   body: string;
 };
 
@@ -45,6 +49,7 @@ function readPost(fileName: string): Post {
     description: String(data.description ?? ''),
     cover: String(data.cover ?? ''),
     sourceUrl: String(data.source_url ?? ''),
+    canonicalUrl: String(data.canonical_url ?? ''),
     body: content.trim(),
   };
 }

@@ -19,7 +19,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'weekly' as const,
       priority: 0.6,
     })),
-    ...posts.map((post) => ({
+    // Материалы с каноном на другом домене в карту не идут: заявлять адрес,
+    // который сами же объявили неканоническим, — противоречивый сигнал
+    ...posts.filter((post) => !post.canonicalUrl).map((post) => ({
       url: `${SITE_URL}/${post.slug}/`,
       lastModified: post.date,
       changeFrequency: 'monthly' as const,
