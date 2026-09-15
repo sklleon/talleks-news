@@ -1,4 +1,20 @@
+import type { Metadata } from 'next';
+
 import { formatDate, getAllPosts, getRubrics, rubricSlug, SITE_URL } from '../lib/posts';
+
+// Canonical главной. У статей и рубрик он объявлен на их страницах, а у главной
+// не было никакого (замер 15.09.2026: https://news.talleks.ru/ отдавал страницу
+// без <link rel="canonical">) — поисковик сам выбирал, какой из адресов главной
+// считать основным. В layout его ставить нельзя: страница без своего canonical
+// унаследовала бы адрес главной и склеилась бы с ней.
+// ⚠️ alternates страницы ЗАМЕНЯЕТ alternates из layout целиком, а не дополняет:
+// без повторения types ссылка на RSS пропала бы с главной.
+export const metadata: Metadata = {
+  alternates: {
+    canonical: `${SITE_URL}/`,
+    types: { 'application/rss+xml': `${SITE_URL}/rss.xml` },
+  },
+};
 
 export default function FeedPage() {
   const posts = getAllPosts();
