@@ -4,7 +4,7 @@ date: 2026-11-10
 date_estimated: false
 rubric: "Ассортимент"
 description: "Роль тёртого, какао-масла и порошка в текстуре ганаша, ориентиры соотношений и типичные ошибки. Гид для технологов."
-cover: ""
+cover: "https://images.pexels.com/photos/10336644/pexels-photo-10336644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: ""
 ---
 *Гайд для технологов. Таллекс Какао — официальный поставщик Tulip и Dutch Cocoa.*

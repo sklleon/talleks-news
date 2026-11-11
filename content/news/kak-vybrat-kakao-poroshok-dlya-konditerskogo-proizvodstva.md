@@ -4,7 +4,7 @@ date: 2026-07-20
 date_estimated: true
 rubric: ""
 description: "Жирность, pH, степень помола — как выбрать какао-порошок для кондитерского производства. Чеклист из 5 вопросов технолога перед закупкой."
-cover: ""
+cover: "https://images.pexels.com/photos/926361/pexels-photo-926361.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/kak-vybrat-kakao-poroshok"
 canonical_url: "https://talleks.ru/news/kak-vybrat-kakao-poroshok"
 ---

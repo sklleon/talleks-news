@@ -4,7 +4,7 @@ date: 2026-07-20
 date_estimated: true
 rubric: ""
 description: "Чем отличается натуральный какао от алкализованного: pH, цвет, вкус, применение в выпечке, напитках и шоколаде. Сравнительная таблица для технологов."
-cover: ""
+cover: "https://images.pexels.com/photos/926361/pexels-photo-926361.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/naturalnyy-vs-alkalizovannyy"
 canonical_url: "https://talleks.ru/news/naturalnyy-vs-alkalizovannyy"
 ---

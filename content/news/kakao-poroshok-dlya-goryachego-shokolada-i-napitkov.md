@@ -4,7 +4,7 @@ date: 2026-11-10
 date_estimated: false
 rubric: "Ассортимент"
 description: "Почему для напитков берут алкализованный какао-порошок, роль жирности, растворимость и дозировка, частые ошибки."
-cover: ""
+cover: "https://images.pexels.com/photos/7144865/pexels-photo-7144865.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: ""
 ---
 *Гайд для технологов HoReCa и производства. Таллекс Какао — официальный

@@ -4,7 +4,7 @@ date: 2026-07-20
 date_estimated: true
 rubric: ""
 description: "Натуральное и дезодорированное какао-масло: отличия, применение в шоколадном производстве, кондитерских покрытиях и косметике. Что важно при оптовой закупке."
-cover: ""
+cover: "https://images.pexels.com/photos/4113364/pexels-photo-4113364.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/kakao-maslo-primenenie/"
 canonical_url: "https://talleks.ru/news/kakao-maslo-primenenie/"
 ---

@@ -4,7 +4,7 @@ date: 2026-07-20
 date_estimated: true
 rubric: ""
 description: "Fairtrade, Organic, Halal, ISO 22000 — какие сертификаты нужны для производства, экспорта и ритейла. Как получить сертифицированное какао у Таллекс."
-cover: ""
+cover: "https://images.pexels.com/photos/7144865/pexels-photo-7144865.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/sertifikaty-kakao/"
 canonical_url: "https://talleks.ru/news/sertifikaty-kakao/"
 ---

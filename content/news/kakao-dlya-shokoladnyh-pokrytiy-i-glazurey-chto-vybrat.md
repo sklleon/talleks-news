@@ -4,7 +4,7 @@ date: 2026-11-10
 date_estimated: false
 rubric: "Ассортимент"
 description: "Шоколад или кондитерская глазурь, роль какао-масла в текучести, типичные ошибки покрытий. Экспертный гид Таллекс Какао."
-cover: ""
+cover: "https://images.pexels.com/photos/7144865/pexels-photo-7144865.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: ""
 ---
 *Гайд для технологов. Таллекс Какао — официальный поставщик Tulip и Dutch Cocoa.*

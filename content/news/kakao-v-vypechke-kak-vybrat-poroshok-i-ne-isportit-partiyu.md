@@ -4,7 +4,7 @@ date: 2026-11-10
 date_estimated: false
 rubric: "Ассортимент"
 description: "Натуральный или алкализованный, жирность под задачу, частые ошибки — гид по выбору какао-порошка для выпечки от Таллекс Какао."
-cover: ""
+cover: "https://images.pexels.com/photos/926361/pexels-photo-926361.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: ""
 ---
 *Гайд для технологов кондитерских и пекарен. Таллекс Какао — официальный
