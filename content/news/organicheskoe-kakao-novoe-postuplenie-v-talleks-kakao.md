@@ -4,7 +4,7 @@ date: 2026-07-02
 date_estimated: false
 rubric: "Новое поступление"
 description: "На склад поступила новая партия органического какао-порошка и какао-масла с подтверждённым происхождением. Доступно для B2B-заказов от 25 кг. Запросить образцы и цены — info@talleks.ru или t.me/talleks."
-cover: "https://static.tildacdn.com/tild3063-3130-4564-b664-623633313335/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/10336644/pexels-photo-10336644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/hofffbolh1-organicheskoe-kakao-novoe-postuplenie-v"
 ---
 На склад «Таллекс Какао» поступила новая партия органического какао — порошок и масло с подтверждённым происхождением сырья и полным пакетом сопроводительных документов. Продукция подходит для производителей, которым важна маркировка «органик» в составе конечного изделия.

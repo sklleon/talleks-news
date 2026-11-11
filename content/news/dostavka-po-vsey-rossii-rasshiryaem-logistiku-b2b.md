@@ -4,7 +4,7 @@ date: 2026-05-10
 date_estimated: false
 rubric: "Рынок"
 description: "Таллекс Какао осуществляет доставку в любой регион Рф. Работаем с проверенными транспортными компаниями. Соблюдаем температурный режим хранения продукции при транспортировке."
-cover: "https://static.tildacdn.com/tild6165-3332-4632-a236-363633333566/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/8900912/pexels-photo-8900912.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/bp64dok8i1-dostavka-po-vsei-rossii-rasshiryaem-logi"
 ---
 Таллекс Какао осуществляет доставку в любой регион Рф. Работаем с проверенными транспортными компаниями. Соблюдаем температурный режим хранения продукции при транспортировке.

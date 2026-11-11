@@ -4,7 +4,7 @@ date: 2026-04-01
 date_estimated: false
 rubric: "Спецпредложение"
 description: "Специальные условия вхождения для новых B2B-покупателей: фиксация валютной цены за килограмм на срок до 3 месяцев и приоритетное резервирование партий — для партнёров от 100 кг. Свяжитесь через t.me/talleks или info@talleks.ru."
-cover: "https://static.tildacdn.com/tild6531-3039-4566-b133-306534613464/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/7144865/pexels-photo-7144865.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/gn5aaj3d91-usloviya-dlya-novih-b2b-partnyorov-v-apr"
 ---
 Для новых B2B-покупателей действуют специальные условия вхождения: **фиксация валютной цены за килограмм на срок до 3 месяцев** и приоритетное резервирование партий — для партнёров от 100 кг.

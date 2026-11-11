@@ -4,7 +4,7 @@ date: 2026-01-15
 date_estimated: false
 rubric: "Новое поступление"
 description: "Получена новая партия натурального какао-порошка из Ганы урожая 2025/2026 гг. Порошок с жирностью 10–12%, цвет тёмный, аромат выраженный. Подходит для производства шоколада, кондитерских изделий и выпечки."
-cover: "https://static.tildacdn.com/tild6466-3234-4065-b834-396131306164/20220318-tomdoms_073.jpg"
+cover: "https://images.pexels.com/photos/8900912/pexels-photo-8900912.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/a1dkpl9yj1-novoe-postuplenie-kakao-poroshka-iz-gani"
 ---
 Таллекс Какао рад сообщить о получении новой партии какао-порошка из Ганы. Урожай 2025/2026 гг. Продукция прошла полный цикл ферментации и сушки, соответствует стандартам ISO и HACCP.

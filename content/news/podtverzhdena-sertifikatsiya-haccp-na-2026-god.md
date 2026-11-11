@@ -4,7 +4,7 @@ date: 2026-03-25
 date_estimated: false
 rubric: "Сертификация"
 description: "Таллекс Какао успешно прошёл аудит HACCP за 2026 год. Система анализа опасных факторов применяется на всех этапах хранения и отгрузки. Безопасность продукции гарантирована."
-cover: "https://static.tildacdn.com/tild3263-3632-4165-a137-383437626362/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/4157754/pexels-photo-4157754.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/pdupbk55g1-podtverzhdena-sertifikatsiya-haccp-na-20"
 ---
 Таллекс Какао успешно прошёл аудит HACCP за 2026 год. Система анализа опасных факторов применяется на всех этапах хранения и отгрузки. Безопасность продукции гарантирована.

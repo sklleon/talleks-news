@@ -4,7 +4,7 @@ date: 2026-02-20
 date_estimated: false
 rubric: "Новое поступление"
 description: "На склад поступило новое натуральное какао-масло из Кот-д’Ивуара — одного из крупнейших производителей какао в мире. Продукт соответствует ICCO, чистота 90%+. Подходит для косметики и пищевой промышленности."
-cover: "https://static.tildacdn.com/tild3931-3737-4131-b565-383663313730/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/8900912/pexels-photo-8900912.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/sahdt4c7e1-postuplenie-kakao-masla-iz-kot-divuara-p"
 ---
 На склад поступило новое натуральное какао-масло из Кот-д’Ивуара — одного из крупнейших производителей какао в мире. Продукт соответствует ICCO, чистота 90%+. Подходит для косметики и пищевой промышленности.

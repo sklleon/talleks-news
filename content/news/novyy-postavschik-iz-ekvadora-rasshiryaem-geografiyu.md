@@ -4,7 +4,7 @@ date: 2026-04-10
 date_estimated: false
 rubric: "Рынок"
 description: "Таллекс Какао наладил партнёрство с новым эквадорским кооперативом. Теперь предлагаем какао из нескольких регионов страны. Географическая диверсификация обеспечивает стабильность поставок."
-cover: "https://static.tildacdn.com/tild3564-3835-4330-a432-383934343637/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/10336644/pexels-photo-10336644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/ff86ibcv81-novii-postavschik-iz-ekvadora-rasshiryae"
 ---
 Таллекс Какао наладил партнёрство с новым эквадорским кооперативом. Теперь предлагаем какао из нескольких регионов страны. Географическая диверсификация обеспечивает стабильность поставок.

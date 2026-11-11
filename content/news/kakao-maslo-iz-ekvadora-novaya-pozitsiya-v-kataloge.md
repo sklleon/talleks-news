@@ -4,7 +4,7 @@ date: 2026-05-05
 date_estimated: false
 rubric: "Ассортимент"
 description: "Добавляем натуральное какао-масло из Эквадора в каталог — для косметической и пищевой промышленности. Цвет слоновой кости, аромат тонкий фруктовый. Минимальный заказ от 100 кг."
-cover: "https://static.tildacdn.com/tild3231-6433-4766-b830-393665633336/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/4113364/pexels-photo-4113364.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/si1jgs5451-kakao-maslo-iz-ekvadora-novaya-pozitsiya"
 ---
 Добавляем натуральное какао-масло из Эквадора в каталог — для косметической и пищевой промышленности. Цвет слоновой кости, аромат тонкий фруктовый. Минимальный заказ от 100 кг.

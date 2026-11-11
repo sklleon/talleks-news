@@ -4,7 +4,7 @@ date: 2026-05-20
 date_estimated: false
 rubric: "Спецпредложение"
 description: "Порог входа для новых B2B-покупателей — от 25 кг. Можно протестировать какао-порошок, масло или тёртое какао на небольшой партии перед крупной закупкой. Запросить цены — info@talleks.ru или t.me/talleks."
-cover: "https://static.tildacdn.com/tild3063-3130-4564-b664-623633313335/adobestock_399218125.jpeg"
+cover: "https://images.pexels.com/photos/7144865/pexels-photo-7144865.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/y8hli9gzv1-minimalnii-zakaz-snizhen-ot-200-kg-dlya"
 ---
 Для новых B2B-покупателей минимальная партия — **от 25 кг**. Такой порог позволяет протестировать какао-порошок, какао-масло или тёртое какао под свою рецептуру, прежде чем переходить к регулярным крупным закупкам.

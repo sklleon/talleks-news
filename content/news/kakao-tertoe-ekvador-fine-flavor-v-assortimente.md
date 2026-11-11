@@ -4,7 +4,7 @@ date: 2026-01-28
 date_estimated: false
 rubric: "Ассортимент"
 description: "Добавляем в ассортимент какао-тёртое Fine Flavor из Эквадора — продукт для премиального шоколада. Интенсивный фруктовый аромат, контент какао 50–55%. Подходит для производителей элитного шоколада и кондитерских изделий."
-cover: "https://static.tildacdn.com/tild6463-6133-4766-a666-386265343262/amsterdam-cocoa-powd.jpg"
+cover: "https://images.pexels.com/photos/10336644/pexels-photo-10336644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/el0e5u54c1-kakao-tyortoe-ekvador-fine-flavor-v-asso"
 ---
 Таллекс Какао расширяет линейку: в продажу вступило какао-тёртое Fine Flavor из Эквадора. Это сырьё из провинции Лос Риос, известной высоким содержанием флавоноидов.

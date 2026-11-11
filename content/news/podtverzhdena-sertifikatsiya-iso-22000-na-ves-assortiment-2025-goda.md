@@ -4,7 +4,7 @@ date: 2025-04-18
 date_estimated: false
 rubric: "Сертификация"
 description: "Таллекс Какао успешно прошёл аудит и подтвердил соответствие ISO 22000 для всей линейки — какао-порошка, масла и тёртого. Документы предоставляются к каждой партии по запросу."
-cover: "https://static.tildacdn.com/tild3530-3861-4166-b132-383965613330/amsterdam-cocoa-qual.jpg"
+cover: "https://images.pexels.com/photos/10336644/pexels-photo-10336644.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/c4ltdtf4r1-podtverzhdena-sertifikatsiya-iso-22000-n"
 ---
 Таллекс Какао успешно прошёл аудит и подтвердил соответствие ISO 22000 для всей линейки — какао-порошка, масла и тёртого. Документы предоставляются к каждой партии по запросу.

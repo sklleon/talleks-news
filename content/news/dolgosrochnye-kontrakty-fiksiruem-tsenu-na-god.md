@@ -4,7 +4,7 @@ date: 2026-04-22
 date_estimated: false
 rubric: "Спецпредложение"
 description: "Таллекс Какао предлагает B2B-партнёрам контракты с фиксацией валютной цены за килограмм на срок до 3 месяцев. Рубли пересчитываются по курсу на день оплаты, предоплата закрывает курс в момент платежа."
-cover: "https://static.tildacdn.com/tild3939-3237-4831-b935-313634383831/adobestock_156320673.jpeg"
+cover: "https://images.pexels.com/photos/8900912/pexels-photo-8900912.jpeg?auto=compress&cs=tinysrgb&w=1200"
 source_url: "https://talleks.ru/news/dla8zl5ov1-dolgosrochnie-kontrakti-fiksiruem-tsenu"
 ---
 Для партнёров, планирующих закупки заранее, мы фиксируем **валютную цену за килограмм на срок до 3 месяцев** — за этот срок она не подорожает, как бы ни двигались котировки мирового рынка какао.
